@@ -1,0 +1,17 @@
+
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+        background-image: linear-gradient(to left, red, indigo, red, indigo, red, indigo, red);
+        -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent;
+  }
+
+  img {
+    width:500px;
+    height:600px;
+  }
